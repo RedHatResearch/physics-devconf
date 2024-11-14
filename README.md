@@ -4,6 +4,8 @@ This repository provides an easy way to deploy a [KinD](https://kind.sigs.k8s.io
 
 It also provides a couple of sample scripts to deploy a Knative service and a function.
 
+> [PHYSICS](https://physics-faas.eu/) has received funding from the European Union's Horizon 2020 research and innovation programme under grant agreement No. 101017047.
+
 ## Index
 - [physics-devconf](#physics-devconf)
   - [Index](#index)
